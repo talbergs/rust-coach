@@ -1,4 +1,4 @@
-This one crate would bake two binaries.
+This one crate would bake two binaries for ya.
 
 Usage them:
 ```
