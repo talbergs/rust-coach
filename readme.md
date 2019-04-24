@@ -1,1 +1,3 @@
-##### This monorepo si holding a bunch of useless projects implemented in Rust.
+##### Tinker apps.
+##### In variety of domains.
+##### Refs.
