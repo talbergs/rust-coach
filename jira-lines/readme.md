@@ -11,4 +11,4 @@ todo:
 - [ ] cli --help flag not working
 - [ ] too much unwaps
 - [ ] in sdk::client::fetch() there is codeduplication
-- [ ] add PGP support for credential values
+- [ ] add GPG support for credential values
